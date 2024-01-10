@@ -1,0 +1,7 @@
+#IDE
+.idea/
+
+# Generated Files
+bin/
+gen/
+
